@@ -3,7 +3,7 @@ package leetcode.easy;
 // 난이도 easy
 // https://leetcode.com/problems/palindrome-number/description/
 // 정수를 문자열로 변환하지 않고 해결해보자는 질문이 있음
-// 시간복잡도는 한번 순회하고 O(1)조회를 하기 떄문에 O(n)
+// 시간복잡도는 O(logn)
 // 공간복잡도는 O(1)
 public class PalindromeNumber {
     public static void main(String[] args) {
